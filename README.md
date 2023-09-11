@@ -10,3 +10,5 @@
     cd .\pyspark_\
     pip install -r requirements.txt
 	python3 main.py
+    
+![Alt text](pyspark_example.png)
